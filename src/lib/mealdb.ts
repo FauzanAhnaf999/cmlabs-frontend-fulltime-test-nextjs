@@ -69,7 +69,7 @@ export async function extractIngredients(meal: MealDetail): Promise<string[]> {
     return items;
 }
 
-export async function  toEmbedUrl(url: string | null): Promise<string | null> {    
+export async function toEmbedUrl(url: string | null): Promise<string | null> {    
     if (!url) { 
         return null;
     }
