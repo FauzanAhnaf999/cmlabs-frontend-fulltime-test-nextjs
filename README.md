@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+video ngoding : https://drive.google.com/file/d/1UKiDDJ6Yu587ahI7MhHTp4ADL2sLGhf6/view?usp=sharing
+
+deploy : https://cmlabs-frontend-fulltime-test-nextj.vercel.app/
 
 ## Getting Started
 
